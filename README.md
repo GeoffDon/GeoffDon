@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**GeoffDon/GeoffDon** is a ✨a Data Analyst ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GeoffDon/GeoffDon** is a ✨ Data Analyst ✨
 
 Here are some ideas to get you started:
 
